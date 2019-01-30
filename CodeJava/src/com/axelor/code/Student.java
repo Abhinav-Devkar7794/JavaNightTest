@@ -8,6 +8,8 @@ public class Student {
 		
 		System.out.println("Add .. Commit ...Push...");
 		
+		System.out.println(" Checkout : Add Data");
+		
 	}
 
 }
