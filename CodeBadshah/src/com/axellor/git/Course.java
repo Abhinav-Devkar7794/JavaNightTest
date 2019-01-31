@@ -6,9 +6,6 @@ public class Course {
 		// TODO Auto-generated method stub
 
 		System.out.println("MCA");
-		
-		System.out.println("Git Coomit Function : 2");
 	}
-	
 
 }
