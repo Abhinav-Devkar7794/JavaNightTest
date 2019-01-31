@@ -6,6 +6,10 @@ public class Course {
 		// TODO Auto-generated method stub
 
 		System.out.println("MCA");
+		
+		System.out.println("Bca");
+		System.out.println("Mca");
+		System.out.println("Phd");
 	}
 
 }
