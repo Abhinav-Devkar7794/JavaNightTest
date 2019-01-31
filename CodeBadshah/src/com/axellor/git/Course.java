@@ -8,6 +8,7 @@ public class Course {
 		System.out.println("MCA");
 		
 		System.out.println("Pizza ");
+		System.out.println("Burger");
 	}
 
 }
